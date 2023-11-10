@@ -1,2 +1,2 @@
 # nasuni-opensearch-userinterface-public
-This repo creates a simple Nasuni Search UI for accessing data from AWS OpenSearch Service. 
+Terraform script for deploying a search user interface for the Amazon OpenSearch integration with the NAC Scheduler in Public
